@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Postal price per letter size", "Postal price per letter size.vcxproj", "{FE762969-19F1-4808-85D6-35C6A4F0AEA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE762969-19F1-4808-85D6-35C6A4F0AEA5}.Debug|x64.ActiveCfg = Debug|x64
+		{FE762969-19F1-4808-85D6-35C6A4F0AEA5}.Debug|x64.Build.0 = Debug|x64
+		{FE762969-19F1-4808-85D6-35C6A4F0AEA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE762969-19F1-4808-85D6-35C6A4F0AEA5}.Debug|x86.Build.0 = Debug|Win32
+		{FE762969-19F1-4808-85D6-35C6A4F0AEA5}.Release|x64.ActiveCfg = Release|x64
+		{FE762969-19F1-4808-85D6-35C6A4F0AEA5}.Release|x64.Build.0 = Release|x64
+		{FE762969-19F1-4808-85D6-35C6A4F0AEA5}.Release|x86.ActiveCfg = Release|Win32
+		{FE762969-19F1-4808-85D6-35C6A4F0AEA5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF3BE65E-7D1B-4865-AE34-0AB36E1FE6F7}
+	EndGlobalSection
+EndGlobal
